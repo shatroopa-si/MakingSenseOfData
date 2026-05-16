@@ -4,9 +4,9 @@ It also contains relevant notes and code segments helpful for data analytics and
 
 _PS: The book comes in two volumes._
 
-### Language: Python v3.10
-### OS: Windows 11
-#### Setup virtual environment
+#### Language: Python v3.10
+#### OS: Windows 11
+##### Setup virtual environment
 ```
 python3 -m venv venv
 .\venv\Scripts\Activate.ps1         # Activate venv
